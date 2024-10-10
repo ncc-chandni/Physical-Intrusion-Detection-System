@@ -27,9 +27,9 @@ In an increasingly connected world, safeguarding against unauthorized access and
 ### Dataset
 The data for this project is generated using a mathematical model of OTDR. Intrusions are simulated by introducing noise at random locations along the cable, utilizing sinusoidal variations to mimic real-world scenarios.
 
-Cable Length: A total of 4000 meters of cable is tested.
-Segmentation: The cable is divided into 97 zones, each approximately 41 meters long, to facilitate better data extraction and detection.
-Input Parameter: The difference in amplitude is used as the primary input for the models to detect anomalies related to intrusions.
+ Cable Length: A total of 4000 meters of cable is tested.
+ Segmentation: The cable is divided into 97 zones, each approximately 41 meters long, to facilitate better data extraction and detection.
+ Input Parameter: The difference in amplitude is used as the primary input for the models to detect anomalies related to intrusions.
 
 ### Model Architectures
  
