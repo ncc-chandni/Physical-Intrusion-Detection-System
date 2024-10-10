@@ -5,12 +5,19 @@ This project focuses on developing deep learning models to detect anomalies in i
 
 ## Table of Contents
 Introduction
+
 Dataset
+
 Model Architectures
+
 Dense Neural Network
+
 Convolutional Neural Network (CNN)
+
 Evaluation Metrics
+
 Results
+
 Future Work
 
 
